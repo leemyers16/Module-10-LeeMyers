@@ -1,0 +1,25 @@
+{
+  "name": "module-10-leemyers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leemyers16/Module-10-LeeMyers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leemyers16/Module-10-LeeMyers/issues"
+  },
+  "homepage": "https://github.com/leemyers16/Module-10-LeeMyers#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
